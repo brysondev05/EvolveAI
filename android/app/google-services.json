@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "411893658770",
+    "project_id": "skynet-coaching-app",
+    "storage_bucket": "skynet-coaching-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411893658770:android:49a3d25dbc21832194e24b",
+        "android_client_info": {
+          "package_name": "com.skynetcoaching.expertsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411893658770-80a20t1oocjkovdmos3v0rals8j9ea4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skynetcoaching.expertsystem",
+            "certificate_hash": "ba8dfbf1d36e77a64004778bc346bd073fe16b73"
+          }
+        },
+        {
+          "client_id": "411893658770-dbefrdtirsi9hsa3vov8ee6ee9scfqp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skynetcoaching.expertsystem",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "411893658770-ih7rlhnqpc2bomnk5dv72gutvmdion5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_IsNuPBo2vJe8V0o2Xkv5q_DIn78hN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411893658770-ih7rlhnqpc2bomnk5dv72gutvmdion5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411893658770-1pp0ujcv21pqg7vgk7kked7tsjbvgg5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skynetcoaching.expertsystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

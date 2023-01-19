@@ -1,0 +1,1328 @@
+[
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "1",
+        "SRI": [
+            4,
+            6,
+            0.5
+        ],
+        "notes": "5\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ1R_1"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "2",
+        "SRI": [
+            4,
+            5,
+            0.55
+        ],
+        "notes": "4\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ1R_2"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "3",
+        "SRI": [
+            4,
+            4,
+            0.6
+        ],
+        "notes": "3\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ1R_3"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "4",
+        "SRI": [
+            4,
+            3,
+            0.65
+        ],
+        "notes": "2\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ1R_4"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "5",
+        "SRI": [
+            3,
+            3,
+            0.7
+        ],
+        "notes": "1\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ1R_5"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ1R",
+        "week": "6",
+        "SRI": [
+            2,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Squat",
+            "exerciseShortcode": "SQ0",
+            "category": "rehab_SQ1R_6"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "1",
+        "SRI": [
+            3,
+            6,
+            0.6
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_1"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "2",
+        "SRI": [
+            3,
+            5,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_2"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "3",
+        "SRI": [
+            3,
+            4,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_3"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "4",
+        "SRI": [
+            3,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_4"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "5",
+        "SRI": [
+            2,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_5"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ2R",
+        "week": "6",
+        "SRI": [
+            2,
+            2,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ2R_6"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ3R",
+        "week": "1",
+        "SRI": [
+            3,
+            8,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ3R_1"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ3R",
+        "week": "2",
+        "SRI": [
+            3,
+            7,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ3R_2"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ3R",
+        "week": "3",
+        "SRI": [
+            3,
+            6,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ3R_3"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "1",
+        "SRI": [
+            4,
+            5,
+            0.5
+        ],
+        "notes": "5\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ4R_1"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "2",
+        "SRI": [
+            4,
+            4,
+            0.55
+        ],
+        "notes": "4\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ4R_2"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "3",
+        "SRI": [
+            4,
+            3,
+            0.6
+        ],
+        "notes": "3\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ4R_3"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "4",
+        "SRI": [
+            3,
+            3,
+            0.65
+        ],
+        "notes": "2\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ4R_4"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "5",
+        "SRI": [
+            2,
+            3,
+            0.7
+        ],
+        "notes": "1\" above parallel",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Box Squat",
+            "exerciseShortcode": "DL134",
+            "category": "rehab_SQ4R_5"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ4R",
+        "week": "6",
+        "SRI": [
+            1,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Squat",
+            "exerciseShortcode": "SQ0",
+            "category": "rehab_SQ4R_6"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "1",
+        "SRI": [
+            3,
+            5,
+            0.5
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_1"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "2",
+        "SRI": [
+            3,
+            4,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_2"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "3",
+        "SRI": [
+            3,
+            3,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_3"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "4",
+        "SRI": [
+            2,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_4"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "5",
+        "SRI": [
+            1,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_5"
+        }
+    },
+    {
+        "movement": "SQ",
+        "code": "SQ5R",
+        "week": "6",
+        "SRI": [
+            1,
+            2,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Squat",
+            "exerciseShortcode": "SQ42",
+            "category": "rehab_SQ5R_6"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "1",
+        "SRI": [
+            5,
+            6,
+            0.55
+        ],
+        "notes": "5 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN1R_1"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "2",
+        "SRI": [
+            5,
+            5,
+            0.6
+        ],
+        "notes": "4 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN1R_2"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "3",
+        "SRI": [
+            5,
+            4,
+            0.65
+        ],
+        "notes": "3 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN1R_3"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "4",
+        "SRI": [
+            5,
+            3,
+            0.7
+        ],
+        "notes": "2 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN1R_4"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "5",
+        "SRI": [
+            4,
+            3,
+            0.75
+        ],
+        "notes": "1 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN1R_5"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN1R",
+        "week": "6",
+        "SRI": [
+            3,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Bench",
+            "exerciseShortcode": "BN0",
+            "category": "rehab_BN1R_6"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "1",
+        "SRI": [
+            3,
+            6,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_1"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "2",
+        "SRI": [
+            3,
+            5,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_2"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "3",
+        "SRI": [
+            3,
+            4,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_3"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "4",
+        "SRI": [
+            3,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_4"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "5",
+        "SRI": [
+            2,
+            3,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_5"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN2R",
+        "week": "6",
+        "SRI": [
+            2,
+            2,
+            0.9
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN2R_6"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN3R",
+        "week": "1",
+        "SRI": [
+            3,
+            -1,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN3R_1"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN3R",
+        "week": "2",
+        "SRI": [
+            3,
+            -1,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN3R_2"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN3R",
+        "week": "3",
+        "SRI": [
+            3,
+            -1,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN3R_3"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "1",
+        "SRI": [
+            5,
+            5,
+            0.55
+        ],
+        "notes": "5 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN4R_1"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "2",
+        "SRI": [
+            5,
+            4,
+            0.6
+        ],
+        "notes": "4 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN4R_2"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "3",
+        "SRI": [
+            5,
+            3,
+            0.65
+        ],
+        "notes": "3 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN4R_3"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "4",
+        "SRI": [
+            4,
+            3,
+            0.7
+        ],
+        "notes": "2 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN4R_4"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "5",
+        "SRI": [
+            3,
+            3,
+            0.75
+        ],
+        "notes": "1 Board",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Board Bench Press",
+            "exerciseShortcode": "BN96",
+            "category": "rehab_BN4R_5"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN4R",
+        "week": "6",
+        "SRI": [
+            2,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Bench",
+            "exerciseShortcode": "BN0",
+            "category": "rehab_BN4R_6"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "1",
+        "SRI": [
+            3,
+            5,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_1"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "2",
+        "SRI": [
+            3,
+            4,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_2"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "3",
+        "SRI": [
+            3,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_3"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "4",
+        "SRI": [
+            2,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_4"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "5",
+        "SRI": [
+            1,
+            3,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_5"
+        }
+    },
+    {
+        "movement": "BN",
+        "code": "BN5R",
+        "week": "6",
+        "SRI": [
+            1,
+            2,
+            0.9
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Bench",
+            "exerciseShortcode": "BN95",
+            "category": "rehab_BN5R_6"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "1",
+        "SRI": [
+            4,
+            6,
+            0.5
+        ],
+        "notes": "5\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL1R_1"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "2",
+        "SRI": [
+            4,
+            5,
+            0.55
+        ],
+        "notes": "4\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL1R_2"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "3",
+        "SRI": [
+            4,
+            4,
+            0.6
+        ],
+        "notes": "3\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL1R_3"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "4",
+        "SRI": [
+            4,
+            3,
+            0.65
+        ],
+        "notes": "2\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL1R_4"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "5",
+        "SRI": [
+            3,
+            3,
+            0.7
+        ],
+        "notes": "1\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL1R_5"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL1R",
+        "week": "6",
+        "SRI": [
+            2,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Deadlift",
+            "exerciseShortcode": "DL0",
+            "category": "rehab_DL1R_6"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "1",
+        "SRI": [
+            3,
+            6,
+            0.6
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_1"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "2",
+        "SRI": [
+            3,
+            5,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_2"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "3",
+        "SRI": [
+            3,
+            4,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_3"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "4",
+        "SRI": [
+            3,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_4"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "5",
+        "SRI": [
+            2,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_5"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL2R",
+        "week": "6",
+        "SRI": [
+            2,
+            2,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL2R_6"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL3R",
+        "week": "1",
+        "SRI": [
+            3,
+            8,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL3R_1"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL3R",
+        "week": "2",
+        "SRI": [
+            3,
+            7,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL3R_2"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL3R",
+        "week": "3",
+        "SRI": [
+            3,
+            6,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL3R_3"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "1",
+        "SRI": [
+            4,
+            5,
+            0.5
+        ],
+        "notes": "5\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL4R_1"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "2",
+        "SRI": [
+            4,
+            4,
+            0.55
+        ],
+        "notes": "4\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL4R_2"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "3",
+        "SRI": [
+            4,
+            3,
+            0.6
+        ],
+        "notes": "3\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL4R_3"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "4",
+        "SRI": [
+            3,
+            3,
+            0.65
+        ],
+        "notes": "2\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL4R_4"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "5",
+        "SRI": [
+            2,
+            3,
+            0.7
+        ],
+        "notes": "1\" Blocks",
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Block Pull",
+            "exerciseShortcode": "DL151",
+            "category": "rehab_DL4R_5"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL4R",
+        "week": "6",
+        "SRI": [
+            1,
+            3,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Comp Deadlift",
+            "exerciseShortcode": "DL0",
+            "category": "rehab_DL4R_6"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "1",
+        "SRI": [
+            3,
+            5,
+            0.6
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_1"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "2",
+        "SRI": [
+            3,
+            4,
+            0.65
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_2"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "3",
+        "SRI": [
+            3,
+            3,
+            0.7
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_3"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "4",
+        "SRI": [
+            2,
+            3,
+            0.75
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_4"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "5",
+        "SRI": [
+            1,
+            3,
+            0.8
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_5"
+        }
+    },
+    {
+        "movement": "DL",
+        "code": "DL5R",
+        "week": "6",
+        "SRI": [
+            1,
+            2,
+            0.85
+        ],
+        "isRehab": true,
+        "exercise": {
+            "exerciseName": "Reverse Band Deadlift",
+            "exerciseShortcode": "DL152",
+            "category": "rehab_DL5R_6"
+        }
+    }
+]

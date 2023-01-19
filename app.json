@@ -1,0 +1,91 @@
+{
+  "name": "Skynet Expert System",
+  "displayName": "Expert System",
+  "expo": {
+    "name": "Skynet Expert System",
+    "slug": "skynet-expert-system",
+    "version": "0.0.1",
+    "scheme": "skynet-expert-system",
+    "owner": "skynetcoaching",
+    "privacy": "unlisted",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "backgroundColor": "#000"
+    },
+    "backgroundColor": "#000",
+    "jsEngine": "jsc",
+    "android": {
+      "jsEngine": "hermes",
+      "permissions": [
+        "VIBRATE",
+        "MODIFY_AUDIO_SETTINGS",
+        "READ_PHONE_STATE",
+        "INTERNET",
+        "ACCESS_NETWORK_STATE",
+        "SYSTEM_ALERT_WINDOW"
+      ],
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "https",
+              "host": "DATA_HERE",
+              "pathPrefix": "/jais"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
+      "package": "com.skynetcoaching.expertsystem"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.skynetcoaching.expertsystem",
+      "buildNumber": "26",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "plugins": ["sentry-expo"],
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "skynet-coaching-inc",
+            "project": "evolveai",
+            "authToken": "bb75d0b5590141d6b6509692c78fa16368222ce9476c442aa395364dc3760821"
+          }
+        }
+      ]
+    },
+    "runtimeVersion": "0.0.1",
+    "updates": {
+      "enabled": true,
+      "url": "https://u.expo.dev/53d0f6d0-51da-46a0-ba49-8434ed78796e"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53d0f6d0-51da-46a0-ba49-8434ed78796e"
+      }
+    }
+  }
+}

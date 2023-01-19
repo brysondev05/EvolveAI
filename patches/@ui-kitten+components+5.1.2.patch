@@ -1,0 +1,13 @@
+diff --git a/node_modules/@ui-kitten/components/ui/text/text.component.js b/node_modules/@ui-kitten/components/ui/text/text.component.js
+index b414ab3..760775a 100644
+--- a/node_modules/@ui-kitten/components/ui/text/text.component.js
++++ b/node_modules/@ui-kitten/components/ui/text/text.component.js
+@@ -67,7 +67,7 @@ const theme_1 = require("../../theme");
+ let Text = class Text extends react_1.default.Component {
+     render() {
+         const { eva, style, ...textProps } = this.props;
+-        return (react_1.default.createElement(react_native_1.Text, Object.assign({}, textProps, { style: [eva.style, style] })));
++        return (react_1.default.createElement(react_native_1.Text, Object.assign({}, textProps, { style: [eva.style, style], maxFontSizeMultiplier: 1.05 })));
+     }
+ };
+ Text = __decorate([

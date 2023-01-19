@@ -1,0 +1,8 @@
+app_identifier("com.skynetcoaching.expertsystem") # The bundle identifier of your app
+apple_id("john.jensen@substantial.com") # Your Apple email address
+
+itc_team_id("119164311") # App Store Connect Team ID
+team_id("7YUPFHAJ97") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

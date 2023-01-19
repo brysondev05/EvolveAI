@@ -1,0 +1,37 @@
+{
+  "cli": {
+    "version": ">= 2.1.0",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "production": {
+      "channel": "main",
+      "ios": {
+        "autoIncrement": "buildNumber",
+        "scheme": "Release"
+      }
+    },
+    "development": {
+      "extends": "production",
+      "developmentClient": true,
+      "distribution": "internal",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      },
+      "ios": {
+        "scheme": "Development"
+      }
+    },
+    "preview": {
+      "extends": "production",
+      "distribution": "internal"
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "ascAppId": "1631174176"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  JuggernautAI
+//
+//  Created by Tim Arnold on 11/29/20.
+//  Copyright © 2020 Juggernaut Training Systems. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"

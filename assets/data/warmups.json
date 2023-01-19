@@ -1,0 +1,345 @@
+{
+    "S": [
+        {
+            "order": "1",
+            "type": "S",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "S",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "S",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "S",
+            "exercise": "Ankle and Big Toe Dorsiflexion",
+            "exerciseShortcode": "MO7",
+            "notes": "10 Reps each foot"
+        },
+        {
+            "order": "5",
+            "type": "S",
+            "exercise": "Bird Dogs",
+            "exerciseShortcode": "MO12",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "6",
+            "type": "S",
+            "exercise": "Bear Crawl Rock Backs",
+            "exerciseShortcode": "MO6",
+            "notes": "10 Reps"
+        },
+        {
+            "order": "7",
+            "type": "S",
+            "exercise": "Goblet Squat",
+            "exerciseShortcode": "SQ3",
+            "notes": "10 - 20 Reps"
+        }
+    ],
+    "B": [
+        {
+            "order": "1",
+            "type": "B",
+            "exercise": "Upper Back Cat/Cow",
+            "exerciseShortcode": "MO5",
+            "notes": "10 Reps In Both Directions"
+        },
+        {
+            "order": "2",
+            "type": "B",
+            "exercise": "Bear Crawl Shoulder Touches",
+            "exerciseShortcode": "MO11",
+            "notes": "5 - 10 Reps Each Hand"
+        },
+        {
+            "order": "3",
+            "type": "B",
+            "exercise": "Iso Hold Pushups",
+            "exerciseShortcode": "MO4",
+            "notes": "3 - 5 Reps"
+        },
+        {
+            "order": "4",
+            "type": "B",
+            "exercise": "Couch Stretch",
+            "exerciseShortcode": "MO9",
+            "notes": "Hold for 30-60 Seconds Each Side"
+        },
+        {
+            "order": "5",
+            "type": "B",
+            "exercise": "Band Pullaparts",
+            "exerciseShortcode": "MO3",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "6",
+            "type": "B",
+            "exercise": "DB Cuban Press",
+            "exerciseShortcode": "SH215",
+            "notes": "10 - 15 Reps using light weight"
+        }
+    ],
+    "BDM": [
+        {
+            "order": "1",
+            "type": "BDM",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "BDM",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "BDM",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "BDM",
+            "exercise": "Bird Dogs",
+            "exerciseShortcode": "MO12",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "5",
+            "type": "BDM",
+            "exercise": "Bear Crawl Shoulder Touches",
+            "exerciseShortcode": "MO11",
+            "notes": "5 - 10 Reps Each Hand"
+        },
+        {
+            "order": "6",
+            "type": "BDM",
+            "exercise": "Goblet Squat",
+            "exerciseShortcode": "SQ3",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "7",
+            "type": "BDM",
+            "exercise": "DB Cuban Press",
+            "exerciseShortcode": "SH215",
+            "notes": "10 - 15 Reps using light weight"
+        }
+    ],
+    "BDC": [
+        {
+            "order": "1",
+            "type": "BDC",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "BDC",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "BDC",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "BDC",
+            "exercise": "Bear Crawl Shoulder Touches",
+            "exerciseShortcode": "MO11",
+            "notes": "5 - 10 Reps Each Hand"
+        },
+        {
+            "order": "5",
+            "type": "BDC",
+            "exercise": "Tall Kneeling Glute Activation",
+            "exerciseShortcode": "MO10",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "6",
+            "type": "BDC",
+            "exercise": "Couch Stretch",
+            "exerciseShortcode": "MO9",
+            "notes": "Hold for 30-60 Seconds Each Side"
+        },
+        {
+            "order": "7",
+            "type": "BDC",
+            "exercise": "DB Cuban Press",
+            "exerciseShortcode": "SH215",
+            "notes": "10 - 15 Reps using light weight"
+        }
+    ],
+    "DM": [
+        {
+            "order": "1",
+            "type": "DM",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "DM",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "DM",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "DM",
+            "exercise": "Bird Dogs",
+            "exerciseShortcode": "MO12",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "5",
+            "type": "DM",
+            "exercise": "Tall Kneeling Glute Activation",
+            "exerciseShortcode": "MO10",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "6",
+            "type": "DM",
+            "exercise": "Kettlebell Swing",
+            "exerciseShortcode": "MO8",
+            "notes": "10 - 20 Reps"
+        }
+    ],
+    "DC": [
+        {
+            "order": "1",
+            "type": "DC",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "DC",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "DC",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "DC",
+            "exercise": "Bird Dogs",
+            "exerciseShortcode": "MO12",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "5",
+            "type": "DC",
+            "exercise": "Tall Kneeling Glute Activation",
+            "exerciseShortcode": "MO10",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "6",
+            "type": "DC",
+            "exercise": "Staggered RDL w/ Pause",
+            "exerciseShortcode": "MO14",
+            "notes": "5 to 10 Reps Each Side"
+        }
+    ],
+    "SBD": [
+        {
+            "order": "1",
+            "type": "SBD",
+            "exercise": "90/90 Breathing",
+            "exerciseShortcode": "MO1",
+            "notes": "10 - 15 Breaths"
+        },
+        {
+            "order": "2",
+            "type": "SBD",
+            "exercise": "Dead Bugs",
+            "exerciseShortcode": "MO2",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "3",
+            "type": "SBD",
+            "exercise": "Glute Bridge",
+            "exerciseShortcode": "MO13",
+            "notes": "15 - 20 Reps"
+        },
+        {
+            "order": "4",
+            "type": "SBD",
+            "exercise": "Bird Dogs",
+            "exerciseShortcode": "MO12",
+            "notes": "10 Reps per side"
+        },
+        {
+            "order": "5",
+            "type": "SBD",
+            "exercise": "Bear Crawl Shoulder Touches",
+            "exerciseShortcode": "MO11",
+            "notes": "5 - 10 Reps Each Hand"
+        },
+        {
+            "order": "6",
+            "type": "SBD",
+            "exercise": "Tall Kneeling Glute Activation",
+            "exerciseShortcode": "MO10",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "7",
+            "type": "SBD",
+            "exercise": "Goblet Squat",
+            "exerciseShortcode": "SQ3",
+            "notes": "10 - 20 Reps"
+        },
+        {
+            "order": "8",
+            "type": "SBD",
+            "exercise": "DB Cuban Press",
+            "exerciseShortcode": "SH215",
+            "notes": "10 - 15 Reps using light weight"
+        }
+    ]
+}
